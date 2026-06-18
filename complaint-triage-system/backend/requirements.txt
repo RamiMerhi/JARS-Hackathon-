@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pandas==2.2.2
+scikit-learn==1.5.0
+joblib==1.4.2
+rapidfuzz==3.9.3
+pydantic==2.7.4
+# Optional advanced upgrade path (heavy). Uncomment to enable XLM-RoBERTa.
+# torch==2.3.1
+# transformers==4.42.3

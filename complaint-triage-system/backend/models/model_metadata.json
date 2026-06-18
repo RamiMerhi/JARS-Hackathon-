@@ -1,0 +1,57 @@
+{
+  "category_model": {
+    "model_type": "TF-IDF + SGD Logistic Classifier",
+    "label_source": "supervised_csv_category",
+    "training_rows": 1000,
+    "classes": [
+      "Health & Food Safety",
+      "Hygiene & Sanitation",
+      "Licensing & Compliance",
+      "Pricing & Fraud",
+      "Service Quality"
+    ],
+    "metrics": {
+      "available": true,
+      "holdout_accuracy": 0.99,
+      "test_rows": 200,
+      "train_rows": 800,
+      "classification_report": "                        precision    recall  f1-score   support\n\n  Health & Food Safety       0.98      1.00      0.99        44\n  Hygiene & Sanitation       1.00      1.00      1.00        36\nLicensing & Compliance       1.00      0.97      0.99        36\n       Pricing & Fraud       1.00      1.00      1.00        40\n       Service Quality       0.98      0.98      0.98        44\n\n              accuracy                           0.99       200\n             macro avg       0.99      0.99      0.99       200\n          weighted avg       0.99      0.99      0.99       200\n"
+    },
+    "artifact": "/mnt/data/final_trige/complaint-triage-system/backend/models/category_tfidf_logreg.joblib"
+  },
+  "priority_model": {
+    "model_type": "TF-IDF + SGD Logistic Classifier over text + establishment feature tokens",
+    "label_source": "weak_supervision_generated_from_scope_rules",
+    "training_rows": 1000,
+    "classes": [
+      "LOW",
+      "MEDIUM",
+      "HIGH",
+      "CRITICAL"
+    ],
+    "label_distribution": {
+      "CRITICAL": 260,
+      "HIGH": 245,
+      "LOW": 97,
+      "MEDIUM": 398
+    },
+    "weak_score_mean": 58.93,
+    "metrics": {
+      "available": true,
+      "holdout_accuracy": 0.765,
+      "test_rows": 200,
+      "train_rows": 800,
+      "classification_report": "              precision    recall  f1-score   support\n\n    CRITICAL       0.86      0.81      0.83        52\n        HIGH       0.65      0.73      0.69        49\n         LOW       0.75      0.63      0.69        19\n      MEDIUM       0.79      0.79      0.79        80\n\n    accuracy                           0.77       200\n   macro avg       0.76      0.74      0.75       200\nweighted avg       0.77      0.77      0.77       200\n"
+    },
+    "artifact": "/mnt/data/final_trige/complaint-triage-system/backend/models/priority_tfidf_logreg.joblib"
+  },
+  "local_ml": true,
+  "external_llm_api_used": false,
+  "mandatory_rule_layer": [
+    "YELLOW minimum MEDIUM",
+    "RED minimum HIGH",
+    "RED + serious content => CRITICAL",
+    "GREEN constrained to LOW/MEDIUM as provided in the guide"
+  ],
+  "trained_at_utc": "2026-06-12T12:25:23.394388+00:00"
+}

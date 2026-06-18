@@ -1,0 +1,142 @@
+id,name,province,sector,violations,last_inspection,zone,open_complaints
+EST-001,Abu Hassan Shawarma,North Lebanon,Restaurant,6,12/12/2025,RED,3
+EST-002,Abu Khalil Butcher,Beirut,Butchery,9,1/16/2026,RED,6
+EST-003,Achrafieh Bistro,Beirut,Restaurant,1,3/28/2026,YELLOW,0
+EST-004,Achrafieh Kaak Cart,Beirut,Sweets & Bakery,8,2/1/2026,RED,6
+EST-005,Achrafieh Oven,Beirut,Sweets & Bakery,3,1/9/2026,YELLOW,2
+EST-006,Al Arz Station Zahle,Bekaa,Petrol Station,1,1/23/2026,YELLOW,1
+EST-007,Al Bustan Hotel,Beirut,Hotel & Resort,0,4/13/2026,GREEN,0
+EST-008,Al Falamanki,South Lebanon,Restaurant,0,5/10/2026,GREEN,0
+EST-009,Al Forn,Beirut,Sweets & Bakery,6,1/15/2026,RED,2
+EST-010,Al Jabal Meat,Mount Lebanon,Butchery,2,3/6/2026,YELLOW,2
+EST-011,Al Nour Pharmacy,South Lebanon,Pharmacy,0,4/27/2026,GREEN,0
+EST-012,Al Rabih Supermarket,Beirut,Supermarket,0,5/26/2026,GREEN,0
+EST-013,Al Reef Butchery,North Lebanon,Butchery,0,4/22/2026,GREEN,0
+EST-014,Al Salam Market,South Lebanon,Supermarket,1,3/31/2026,YELLOW,2
+EST-015,Al Shifa Pharmacy,Beirut,Pharmacy,6,7/4/2025,RED,2
+EST-016,Aqua Park Lebanon,Beirut,Swimming Pool & Water Park,6,8/29/2025,RED,5
+EST-017,Babel,South Lebanon,Restaurant,6,8/20/2025,RED,3
+EST-018,Barbar,Beirut,Sweets & Bakery,0,4/20/2026,GREEN,0
+EST-019,Baron Restaurant,Beirut,Restaurant,3,3/8/2026,YELLOW,2
+EST-020,Beauty Box Jounieh,Mount Lebanon,Cosmetics & Beauty,7,6/16/2025,RED,4
+EST-021,Beirut Event Catering Co,Beirut,Catering & Delivery,3,1/11/2026,YELLOW,0
+EST-022,Blue Beach,Mount Lebanon,Beach Resort,0,5/28/2026,GREEN,0
+EST-023,BouKhalil,Beirut,Retail & Services,6,12/1/2025,RED,5
+EST-024,Bourj Hammoud Market Point,Beirut,Supermarket,8,12/15/2025,RED,4
+EST-025,Bro Eatery,North Lebanon,Restaurant,3,3/21/2026,YELLOW,1
+EST-026,Byblos Fresh Market,Mount Lebanon,Supermarket,5,9/23/2025,RED,6
+EST-027,Byblos Harbor Restaurant,Mount Lebanon,Restaurant,8,6/23/2025,RED,5
+EST-028,Byblos Sur Mer,Mount Lebanon,Beach Resort,2,3/22/2026,YELLOW,0
+EST-029,Carrefour,Mount Lebanon,Supermarket,4,12/30/2025,RED,2
+EST-030,Cedar Heights Hotel,North Lebanon,Hotel & Resort,0,5/4/2026,GREEN,0
+EST-031,Chez Michel Patisserie,North Lebanon,Sweets & Bakery,3,1/31/2026,YELLOW,1
+EST-032,Chouf Corner Store,Mount Lebanon,Supermarket,8,8/17/2025,RED,2
+EST-033,Coastal Events Food Service,North Lebanon,Catering & Delivery,0,4/27/2026,GREEN,0
+EST-034,Community Market Jal el Dib,Mount Lebanon,Supermarket,0,4/12/2026,GREEN,0
+EST-035,Coop Station Sin el Fil,Beirut,Petrol Station,1,2/12/2026,YELLOW,1
+EST-036,Coral Station Jounieh,Mount Lebanon,Petrol Station,4,10/2/2025,RED,4
+EST-037,Corporate Lunch Express,South Lebanon,Catering & Delivery,1,3/1/2026,YELLOW,2
+EST-038,Crepaway,South Lebanon,Restaurant,1,2/20/2026,YELLOW,0
+EST-039,Crystal Beach,South Lebanon,Beach Resort,3,1/22/2026,YELLOW,0
+EST-040,Debbane Supermarket,Mount Lebanon,Supermarket,6,12/8/2025,RED,4
+EST-041,Delivery Plus Beirut,Beirut,Catering & Delivery,8,1/17/2026,RED,2
+EST-042,Dora Express Market,Beirut,Supermarket,0,4/9/2026,GREEN,0
+EST-043,Dora Street Grill Cart,Beirut,Restaurant,8,1/6/2026,RED,3
+EST-044,Edde Sands,North Lebanon,Beach Resort,0,4/26/2026,GREEN,0
+EST-045,Em Sherif,Beirut,Restaurant,3,3/12/2026,YELLOW,1
+EST-046,Express Mini Market,Bekaa,Supermarket,0,4/17/2026,GREEN,0
+EST-047,Family Feast Catering,Beirut,Catering & Delivery,3,2/20/2026,YELLOW,2
+EST-048,Faraya Aqua Park,North Lebanon,Swimming Pool & Water Park,3,3/24/2026,YELLOW,1
+EST-049,Fashion Hub Achrafieh,Beirut,Clothing & Fashion,4,2/2/2026,RED,4
+EST-050,Fouad Bakery,North Lebanon,Sweets & Bakery,5,1/20/2026,RED,2
+EST-051,Four Seasons Beirut,Beirut,Hotel & Resort,0,5/28/2026,GREEN,0
+EST-052,Fresh Cuts,Beirut,Butchery,0,5/10/2026,GREEN,0
+EST-053,Fresh Market,Beirut,Supermarket,9,12/15/2025,RED,5
+EST-054,Gemayel Brothers Meat,Mount Lebanon,Butchery,0,4/25/2026,GREEN,0
+EST-055,Glow Cosmetics Hamra,Beirut,Cosmetics & Beauty,1,2/15/2026,YELLOW,1
+EST-056,Golden Fork Restaurant,Beirut,Restaurant,7,10/22/2025,RED,4
+EST-057,Goodies,Mount Lebanon,Supermarket,0,5/28/2026,GREEN,0
+EST-058,Grand Hills Hotel,North Lebanon,Hotel & Resort,0,5/25/2026,GREEN,0
+EST-059,Green Mart,Beirut,Supermarket,0,4/10/2026,GREEN,0
+EST-060,Green Pharmacy,South Lebanon,Pharmacy,5,10/16/2025,RED,6
+EST-061,Habtoor Grand Beirut,Beirut,Hotel & Resort,5,10/12/2025,RED,4
+EST-062,Habtoor Grand Pool,Beirut,Swimming Pool & Water Park,0,5/3/2026,GREEN,0
+EST-063,Hadath Service Shop,South Lebanon,Supermarket,0,5/25/2026,GREEN,0
+EST-064,Hajj Nizar Grill,Beirut,Restaurant,0,4/8/2026,GREEN,0
+EST-065,Halal Butchery,Beirut,Butchery,5,10/26/2025,RED,3
+EST-066,Hallab,Mount Lebanon,Sweets & Bakery,7,12/27/2025,RED,2
+EST-067,Hamra Care Pharmacy,Beirut,Pharmacy,2,2/9/2026,YELLOW,1
+EST-068,Hamra Convenience Shop,Beirut,Supermarket,9,8/22/2025,RED,6
+EST-069,Hamra Falafel Cart,Beirut,Street Food Vendor,0,5/22/2026,GREEN,0
+EST-070,Hamra Street Grill,Beirut,Restaurant,5,9/12/2025,RED,2
+EST-071,Home Comfort Furniture,South Lebanon,Furniture & Home,6,1/26/2026,RED,2
+EST-072,IPT Station Jal el Dib,Mount Lebanon,Petrol Station,3,3/19/2026,YELLOW,2
+EST-073,InterContinental Mzaar,North Lebanon,Hotel & Resort,8,7/5/2025,RED,2
+EST-074,Jal el Dib Mini Mart,Mount Lebanon,Supermarket,8,8/19/2025,RED,2
+EST-075,Jbeil Manoushe Corner,Mount Lebanon,Sweets & Bakery,0,5/6/2026,GREEN,0
+EST-076,Jiyeh Beach,South Lebanon,Beach Resort,8,9/12/2025,RED,3
+EST-077,Jounieh Corn Vendor,Mount Lebanon,Street Food Vendor,3,2/14/2026,YELLOW,0
+EST-078,Jounieh Sports Club Pool,Mount Lebanon,Swimming Pool & Water Park,0,4/25/2026,GREEN,0
+EST-079,Kababji,Mount Lebanon,Restaurant,0,5/18/2026,GREEN,0
+EST-080,Kempinski Summerland,Mount Lebanon,Hotel & Resort,0,5/11/2026,GREEN,0
+EST-081,Kids World Toys,Beirut,Toys & Children,3,3/1/2026,YELLOW,2
+EST-082,La Mer Beach Resort,Mount Lebanon,Beach Resort,0,5/27/2026,GREEN,0
+EST-083,Lazy B,Beirut,Beach Resort,3,3/30/2026,YELLOW,0
+EST-084,Le Gray,Mount Lebanon,Hotel & Resort,1,3/31/2026,YELLOW,1
+EST-085,Lebanon Feast Catering,South Lebanon,Catering & Delivery,1,1/29/2026,YELLOW,1
+EST-086,Leila,North Lebanon,Restaurant,3,4/7/2026,YELLOW,2
+EST-087,Life Pharmacy,North Lebanon,Pharmacy,3,3/22/2026,YELLOW,0
+EST-088,Local Trade Point Sin el Fil,Beirut,Supermarket,4,12/30/2025,RED,6
+EST-089,Marina del Rey Pool,Beirut,Swimming Pool & Water Park,3,3/13/2026,YELLOW,1
+EST-090,Mayflower Hotel,North Lebanon,Hotel & Resort,0,4/29/2026,GREEN,0
+EST-091,Mayrig,Mount Lebanon,Restaurant,0,5/28/2026,GREEN,0
+EST-092,Medco Station Achrafieh,Beirut,Petrol Station,7,1/27/2026,RED,4
+EST-093,Mixed Services Center Dora,Beirut,Supermarket,5,12/28/2025,RED,4
+EST-094,Movenpick Pool,South Lebanon,Sweets & Bakery,2,4/7/2026,YELLOW,2
+EST-095,Neighborhood Services Baabda,Mount Lebanon,Supermarket,9,9/21/2025,RED,3
+EST-096,Oceana,Beirut,Beach Resort,3,2/12/2026,YELLOW,0
+EST-097,Party Platters Lebanon,Beirut,Catering & Delivery,1,3/13/2026,YELLOW,1
+EST-098,Patisserie Helou,North Lebanon,Sweets & Bakery,0,5/9/2026,GREEN,0
+EST-099,Pharmacy Express,South Lebanon,Pharmacy,0,5/5/2026,GREEN,0
+EST-100,Phoenicia Hotel,Bekaa,Hotel & Resort,0,5/16/2026,GREEN,0
+EST-101,Prime Meats,South Lebanon,Butchery,0,4/10/2026,GREEN,0
+EST-102,QuickBite Delivery,Beirut,Catering & Delivery,1,2/25/2026,YELLOW,2
+EST-103,Roadster Diner,South Lebanon,Restaurant,3,3/8/2026,YELLOW,2
+EST-104,Saida Health Pharmacy,South Lebanon,Pharmacy,9,11/2/2025,RED,2
+EST-105,Salam Butchery,South Lebanon,Butchery,0,5/17/2026,GREEN,0
+EST-106,Semsom,Beirut,Restaurant,0,5/9/2026,GREEN,0
+EST-107,Shell Lebanon Dora,Beirut,Petrol Station,1,4/5/2026,YELLOW,0
+EST-108,Sidon Manoushe Cart,South Lebanon,Sweets & Bakery,0,5/6/2026,GREEN,0
+EST-109,Sidon Sea Restaurant,South Lebanon,Restaurant,1,2/23/2026,YELLOW,1
+EST-110,Sin el Fil Grocery,Beirut,Supermarket,2,1/30/2026,YELLOW,2
+EST-111,Smart Phone Center Dora,Beirut,Supermarket,1,3/6/2026,YELLOW,0
+EST-112,Souk el Tayeb Stall,Beirut,Street Food Vendor,0,5/15/2026,GREEN,0
+EST-113,Spinneys,Beirut,Supermarket,2,2/27/2026,YELLOW,2
+EST-114,Sporting Club,Mount Lebanon,Beach Resort,0,5/24/2026,GREEN,0
+EST-115,Style Avenue Clothing,Mount Lebanon,Clothing & Fashion,2,1/8/2026,YELLOW,0
+EST-116,Summerland Resort Pool,Mount Lebanon,Swimming Pool & Water Park,3,1/11/2026,YELLOW,2
+EST-117,TSC,North Lebanon,Supermarket,0,4/19/2026,GREEN,0
+EST-118,Tanmia Pharmacy,Beirut,Pharmacy,3,1/19/2026,YELLOW,1
+EST-119,Taqa Station Hamra,Beirut,Petrol Station,1,3/1/2026,YELLOW,2
+EST-120,Tawlet,Mount Lebanon,Restaurant,0,5/11/2026,GREEN,0
+EST-121,Tech Zone Electronics,Mount Lebanon,Electronics,5,10/23/2025,RED,3
+EST-122,Total Lebanon Dekwaneh,North Lebanon,Petrol Station,3,1/20/2026,YELLOW,0
+EST-123,Tripoli Halal Meats,North Lebanon,Butchery,2,4/8/2026,YELLOW,2
+EST-124,Tripoli Juice Stand,North Lebanon,Street Food Vendor,1,1/24/2026,YELLOW,1
+EST-125,Tripoli Med Pharmacy,North Lebanon,Pharmacy,2,2/11/2026,YELLOW,1
+EST-126,Tyr Beach,South Lebanon,Beach Resort,1,2/7/2026,YELLOW,2
+EST-127,Tyre Knefeh House,South Lebanon,Restaurant,0,4/11/2026,GREEN,0
+EST-128,Tyre Seafood House,South Lebanon,Restaurant,0,4/19/2026,GREEN,0
+EST-129,Tyre Souk Food Stall,South Lebanon,Street Food Vendor,8,11/14/2025,RED,6
+EST-130,Urbanista,Beirut,Restaurant,0,5/16/2026,GREEN,0
+EST-131,Verdun Roasted Nuts Cart,Beirut,Street Food Vendor,0,5/17/2026,GREEN,0
+EST-132,Vitamin Corner Tripoli,North Lebanon,Pharmacy,0,5/22/2026,GREEN,0
+EST-133,Wardieh Station Tripoli,North Lebanon,Petrol Station,5,9/4/2025,RED,5
+EST-134,Waterville,South Lebanon,Swimming Pool & Water Park,7,12/20/2025,RED,6
+EST-135,Wave Pool Jounieh,Mount Lebanon,Swimming Pool & Water Park,0,5/7/2026,GREEN,0
+EST-136,Wedding Bites Catering,Mount Lebanon,Catering & Delivery,9,6/24/2025,RED,2
+EST-137,Wellness Plus Supplements,South Lebanon,Pharmacy,0,5/25/2026,GREEN,0
+EST-138,Zahle Family Pharmacy,Bekaa,Pharmacy,0,5/17/2026,GREEN,0
+EST-139,Zahle Fruit Cart,Bekaa,Street Food Vendor,9,10/12/2025,RED,6
+EST-140,Zahle Prime Butchery,Bekaa,Butchery,5,10/14/2025,RED,2
+EST-141,Zahle Valley Catering,Bekaa,Catering & Delivery,7,9/17/2025,RED,6
